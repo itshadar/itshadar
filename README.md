@@ -1,6 +1,9 @@
-# Hello, I'm Hadar Ber! 👋
+# Hello, I'm Hadar Ber!
 
-I'm a passionate developer who loves to code and explore new technologies. Welcome to my GitHub profile!
+Hi there!👋   
+I'm a Backend Engineer with a 4-year journey in the elite IDF Matzov unit.  
+My professional path is marked by a strong focus on crafting and architecting robust Python-based backend systems, with a particular emphasis on leveraging the unique capabilities of graph databases.  
+I'm deeply passionate about the art of high-quality engineering, driven by a commitment to create software that truly makes a difference! 🚀  
 
 ## 🖥️ Languages and Tools:
 
