@@ -28,6 +28,5 @@ I'm a passionate developer who loves to code and explore new technologies. Welco
 ## 📬 Feel free to contact me:
 
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/hadarber/)
-- Email: berhadar@gmail.com
 
 Feel free to connect with me through LinkedIn or drop me an email. I'm open to collaborations and discussions about all things tech! 😄
